@@ -1,4 +1,4 @@
 # aryantdemo
 this is trial
 <br>
-auther - ARYAN THORAWADE
+auther - ARYAN NARENDRA THORAWADE
